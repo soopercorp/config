@@ -18,7 +18,7 @@ set backup
 set backupdir='~/.vim/backup'
 
 "Ctrl-Tab to switch to next tab
-map <C-tab> :tabnext <cr>
+map <C-tab> :tabnext <CR>
 
 "Set tab width to 4
 set tabstop=4
